@@ -1,16 +1,16 @@
 {
   "author": "Andrew Zavgorodniy",
-  "name": "my-ng-plate",
+  "name": "Mortgage Calculator",
   "version": "0.0.1",
-  "homepage": "https://github.com/auz34/my-ng-plate",
+  "homepage": "https://github.com/auz34/mortgage-calculator",
   "licenses": {
     "type": "MIT",
-    "url": "https://github.com/auz34/my-ng-plate/LICENSE"
+    "url": "https://github.com/auz34/mortgage-calculator/LICENSE"
   },
-  "bugs": "https://github.com/auz34/my-ng-plate/issues",
+  "bugs": "https://github.com/auz34/mortgage-calculator/issues",
   "repository": {
     "type": "git",
-    "url": "git@github.com:auz34/my-ng-plate"
+    "url": "git@github.com:auz34/mortgage-calculator"
   },
   "dependencies": {},
   "devDependencies": {

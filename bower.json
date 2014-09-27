@@ -1,15 +1,17 @@
 {
-  "name": "my-ng-plate",
+  "name": "Mortgage Calculator",
   "version": "0.0.1",
-  "homepage": "https://github.com/auz34/my-ng-plate",
+  "homepage": "https://github.com/auz34/mortgage-calculator",
   "authors": [
     "auz34 <andrewzavgorodniy@gmail.com>"
   ],
-  "description": "Angular based boiler plate",
+  "description": "Simple application to play with numbers in more advanced ways than usual calculators usually do",
   "keywords": [
-    "boilerplate",
-    "angular",
-    "react"
+    "mortgage",
+    "HELOC",
+    "early payment",
+    "inflation",
+    "recurrent model"
   ],
   "license": "MIT",
   "ignore": [
