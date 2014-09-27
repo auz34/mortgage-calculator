@@ -1,0 +1,30 @@
+{
+  "name": "my-ng-plate",
+  "version": "0.0.1",
+  "homepage": "https://github.com/auz34/my-ng-plate",
+  "authors": [
+    "auz34 <andrewzavgorodniy@gmail.com>"
+  ],
+  "description": "Angular based boiler plate",
+  "keywords": [
+    "boilerplate",
+    "angular",
+    "react"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.21",
+    "react": "~0.11.1",
+    "ngReact": "~0.0.2"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.2.21"
+  }
+}
